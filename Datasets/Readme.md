@@ -2,7 +2,7 @@
 
 Please not that this dataset is sourced from the Allen Institute for AI and the GitHub for the original project is available here: https://github.com/allenai/cord19. 
 
-Following the work of Rogers et al. (2021), a responsible data resuse checklist is inlcuded below and we kindly ask anyone wishing to reuse this data to consult both the checklist and the original dataset and paper.
+Following the work of Rogers et al. (2021), a responsible data resuse checklist is inlcuded below and anyone wishing to reuse this data is kindly asked to consult both the checklist and the original dataset and paper.
 
 ## Checklist
 
