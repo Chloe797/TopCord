@@ -1,1 +1,3 @@
 Notebooks/BERTopic/Topic_Modelling_using_BERTopic.ipynb filter=lfs diff=lfs merge=lfs -text
+Datasets/Cleaned[[:space:]]Data/cleaned_datasett.csv filter=lfs diff=lfs merge=lfs -text
+Datasets/LLM[[:space:]]Topics/df_annotated.csv filter=lfs diff=lfs merge=lfs -text
